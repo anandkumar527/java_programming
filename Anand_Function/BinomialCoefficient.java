@@ -14,9 +14,9 @@ public class BinomialCoefficient {
         int factorial_n=calculateFactorial(n);
         int factorial_r=calculateFactorial(r);
         int factorial_nmr=calculateFactorial(n-r);
-        int BinomialCoefficient=factorial_n/(factorial_r * factorial_nmr);
+        // int BinomialCoefficient=factorial_n/(factorial_r * factorial_nmr);
         
-        return BinomialCoefficient;// return BinomialCoefficient int type;     
+        return factorial_n/(factorial_r * factorial_nmr);// return BinomialCoefficient int type;     
     }
    
 
