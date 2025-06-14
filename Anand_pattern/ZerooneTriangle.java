@@ -1,3 +1,4 @@
+
 //package Anand_pattern;
 
 public class ZerooneTriangle {

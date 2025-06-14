@@ -7,7 +7,7 @@ public class datatype_overloading {
         return a+b;
     }
     // method 2->float type
-    public static double sum(float a,float b){
+    public static float sum(float a,float b){
         return a+b;
     }
 
