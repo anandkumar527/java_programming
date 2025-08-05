@@ -1,7 +1,7 @@
-package Anand_Function;
+package Function;
 
 public class primeInRange {
-    
+
     public static boolean isPrime(int n) {
         if (n == 2) {
             return true;

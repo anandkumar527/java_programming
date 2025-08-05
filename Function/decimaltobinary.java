@@ -1,4 +1,4 @@
-package Anand_Function;
+package Function;
 
 public class decimaltobinary {
 
@@ -13,7 +13,7 @@ public class decimaltobinary {
             pow++;
             n = n / 2;
         }
-        System.out.println("binary form of "+mynum+": "+binarynumber);
+        System.out.println("binary form of " + mynum + ": " + binarynumber);
     }
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Anand_Function;
+package Function;
 
 import java.util.*;
 

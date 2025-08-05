@@ -14,7 +14,7 @@ public class list_of_array {
 
     public static void main(String[] args) {
         int numbers[] = { 2, 4, 6, 8, 10, 12, 10, 14, 16, 18, 20 };
-        int key = 10;
+        int key = 120;
 
         int index = linearsearch(numbers, key);
         if (index == -1) {
