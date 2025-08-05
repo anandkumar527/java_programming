@@ -1,5 +1,4 @@
 //using while loop print (Hello Anand)
-package Loops;
 
 import java.util.*;
 

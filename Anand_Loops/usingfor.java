@@ -1,4 +1,3 @@
-package Loops;
 
 import java.util.*;
 
@@ -11,18 +10,16 @@ public class usingfor {
          */
 
         // print 1 to 50
-        /*
-         * for(int count=1; count<=50; count++) {
-         * System.out.println(count);
-         * }
-         */
+
+        for (int count = 1; count <= 50; count++) {
+            System.out.println(count);
+        }
 
         // print square pattern
-        /*
-         * for(int count=1; count<=4; count++) {
-         * System.out.println("****");
-         * }
-         */
+
+        for (int count = 1; count <= 4; count++) {
+            System.out.println("****");
+        }
 
     }
 }

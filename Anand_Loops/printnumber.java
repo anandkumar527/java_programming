@@ -1,5 +1,4 @@
 //print 1 to 10 using while loop
-package Loops;
 
 import java.util.*;
 

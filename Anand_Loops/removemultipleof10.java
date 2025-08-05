@@ -1,4 +1,3 @@
-package Loops;
 
 import java.util.*;
 

@@ -1,5 +1,5 @@
-/*---------------marks updat--------------- */
-public class array01 {
+
+public class Array01 {
 
     public static void update(int marks[]) {
         for (int i = 0; i < marks.length; i++) {
